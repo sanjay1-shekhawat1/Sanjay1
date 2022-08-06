@@ -1,6 +1,3 @@
-# Sanjay1
-##Stop watch
-
 @font-face{
     font-family: digital-7;
     src: url(fonts/digital-7.ttf);
@@ -34,8 +31,8 @@ div{
 #start {
   margin: 20px auto;
   text-align: center;
-  color: #DAD6D6;
-  background: #48633B;
+  color: #FFFFFF;
+  background: #000000;
   border:solid 2px #35492C;
   border-radius:5px;
   padding:16px 40px 16px;
@@ -46,8 +43,8 @@ div{
 #stop {
   margin: 20px 5px auto;
   text-align: center;
-  color: #DAD6D6;
-  background: #721329;
+  color: #FFFFFF;
+  background: #000000;
   border:solid 2px #590F20;
   border-radius:5px;
   padding:16px 40px 16px;
@@ -58,8 +55,8 @@ div{
 #reset {
   margin: 20px auto;
   text-align: center;
-  color: #DAD6D6;
-  background: #564E58;
+  color: #FFFFFF;
+  background: #000000;
   border:solid 2px #3E383F;
   border-radius:5px;
   padding:16px 40px 16px;
